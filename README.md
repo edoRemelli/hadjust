@@ -9,7 +9,7 @@ Put the depth measurements in folder data, similarly to what is done for USER1.
 To run the calibration and save the calibrated sphere-mesh model to file run respectively main/MAIN_CALIBRATE.m and main/WRITE_CALIBRATED_MODEL_TO_FILE.m
 Please note that .mex files are built for windows usage, you will have to re-build them to use the code on a different OS.
 
-# paper
-[a link](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)
-[a link](http://lgg.epfl.ch/publications/2017/HOnline/paper.pdf)
-[a link](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)
+# papers
+[ICCV17](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)
+[SIGASIA17](http://lgg.epfl.ch/publications/2017/HOnline/paper.pdf)
+[SIGASIA16](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)
